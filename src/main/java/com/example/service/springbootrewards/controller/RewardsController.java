@@ -1,4 +1,4 @@
-package com.example.service.springbootrewards.rewards;
+package com.example.service.springbootrewards.controller;
 
 import java.util.List;
 
